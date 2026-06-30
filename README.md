@@ -1,22 +1,27 @@
-### 👤 About Me
+# Hi, I'm Illia 👋
 
-I am a student at the Kielce University of Technology with a focus on software engineering and web development.
+Software Engineer and Computer Science student at Kielce University of Technology.
 
-* **Core Languages:** Python, C, C++
-* **Web Development:** Django, React
-* **Currently Learning:** Java
+I build web applications, backend services, and automation tools with a strong interest in Linux, system programming, and software architecture.
 
-I am passionate about building efficient backend systems and interactive web applications. Feel free to explore my repositories to see my recent projects.
+## Tech Stack
 
-### 🌐 My socials
+- **Languages:** Python, TypeScript, JavaScript, C/C++
+- **Backend:** Django, Django REST Framework, Node.js
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Databases:** PostgreSQL, Neo4j
+- **Tools:** Docker, Git, Linux
+
+## 🌐 Links
 
 <div align="center">
-  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-zinchuk.dev-3D3BFF?style=for-the-badge&logo=vercel&logoColor=white)](https://zinchuk.dev)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/illia-zinchuk/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](instagram.com/hxntaitape)
 
 </div>
 
-### ✉️ Contact me
+## Contact
 
-I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions. If you have any questions or would like to collaborate, feel free to contact me directly at zinchukillia@gmail.com.
+📧 zinchukillia@gmail.com
