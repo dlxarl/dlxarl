@@ -12,7 +12,7 @@ I build web applications, backend services, and automation tools with a strong i
 - **Databases:** PostgreSQL, Neo4j
 - **Tools:** Docker, Git, Linux
 
-## 🌐 Links
+## Links
 
 <div align="center">
 
